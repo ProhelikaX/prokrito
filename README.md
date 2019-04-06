@@ -1,0 +1,2 @@
+# prokrito
+!Just another language
